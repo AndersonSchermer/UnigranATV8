@@ -1,0 +1,8 @@
+C:\Users\ander\Google Drive\SigaPark Automação\Engenharia\Hardware\HDMI SP\IMC Unigran\IMC Unigran\bin\Debug\IMC Unigran.exe
+C:\Users\ander\Google Drive\SigaPark Automação\Engenharia\Hardware\HDMI SP\IMC Unigran\IMC Unigran\bin\Debug\IMC Unigran.pdb
+C:\Users\ander\Google Drive\SigaPark Automação\Engenharia\Hardware\HDMI SP\IMC Unigran\IMC Unigran\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ander\Google Drive\SigaPark Automação\Engenharia\Hardware\HDMI SP\IMC Unigran\IMC Unigran\obj\Debug\IMC_Unigran.Form1.resources
+C:\Users\ander\Google Drive\SigaPark Automação\Engenharia\Hardware\HDMI SP\IMC Unigran\IMC Unigran\obj\Debug\IMC_Unigran.Properties.Resources.resources
+C:\Users\ander\Google Drive\SigaPark Automação\Engenharia\Hardware\HDMI SP\IMC Unigran\IMC Unigran\obj\Debug\IMC Unigran.csproj.GenerateResource.Cache
+C:\Users\ander\Google Drive\SigaPark Automação\Engenharia\Hardware\HDMI SP\IMC Unigran\IMC Unigran\obj\Debug\IMC Unigran.exe
+C:\Users\ander\Google Drive\SigaPark Automação\Engenharia\Hardware\HDMI SP\IMC Unigran\IMC Unigran\obj\Debug\IMC Unigran.pdb
